@@ -1,0 +1,18 @@
+.disclosure-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.disclosure-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.disclosure-content p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
