@@ -12,13 +12,13 @@ const ForexPedia = () => {
     {
       text: "I am experiencing that peace with OCM after launching!",
       name: "Pratiksha",
-      image: "/rev1.png",
+      image: "/rev2.png",
     },
     {
       text:
         "Received 122+ orders through OCM. It is an amazing strategy. It is simple to follow with no headache",
       name: "Mihir",
-      image: "/rev4.png",
+      image: "/rev3.png",
     },
     {
       text:
