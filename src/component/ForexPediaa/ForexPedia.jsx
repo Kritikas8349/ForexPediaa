@@ -12,55 +12,55 @@ const ForexPedia = () => {
     {
       text: "I am experiencing that peace with OCM after launching!",
       name: "Pratiksha",
-      image: "/public/rev1.png",
+      image: "/rev1.png",
     },
     {
       text:
         "Received 122+ orders through OCM. It is an amazing strategy. It is simple to follow with no headache",
       name: "Mihir",
-      image: "/public/rev4.png",
+      image: "/rev4.png",
     },
     {
       text:
         "Got 33 purchases on Day 1 at ₹71 CPP and 56 purchases on Day 2 at ₹44 CPP",
       name: "Subrata",
-      image: "/public/rev3.png",
+      image: "/rev3.png",
     },
     {
       text:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel leo eros. Aenean a ligula nec justo ultricies ullamcorper nec sed metus.",
       name: "User 4",
-      image: "/public/rev2.png",
+      image: "/rev2.png",
     },
     {
       text: "Short testimonial",
       name: "User 5",
-      image: "/public/rev2.png",
+      image: "/rev2.png",
     },
     {
       text: "Another long testimonial for testing read more functionality. It keeps going and going to simulate a real user experience.",
       name: "User 6",
-      image: "/public/rev1.png",
+      image: "/rev1.png",
     },
     {
       text: "User 7's experience was absolutely incredible!",
       name: "User 7",
-      image: "/public/rev3.png",
+      image: "/rev3.png",
     },
     {
       text: "User 8 shares a deep and lengthy review that exceeds a few lines and needs to be collapsed initially for clean UI presentation.",
       name: "User 8",
-      image: "/public/rev4.png",
+      image: "/rev4.png",
     },
     {
       text: "User 9’s quote is very short.",
       name: "User 9",
-      image: "/public/rev1.png",
+      image: "/rev1.png",
     },
     {
       text: "Final testimonial. Very impressive course and simple to execute. The strategy is worth every rupee.",
       name: "User 10",
-      image: "/public/rev2.png",
+      image: "/rev2.png",
     },
   ];
 
@@ -189,7 +189,7 @@ const ForexPedia = () => {
       <section className="workshop-section">
         <div className="workshop-left">
           <div className="image-wrapper">
-            <img src="/public/rohan.png" alt="Instructor" />
+            <img src="/rohan.png" alt="Instructor" />
           </div>
         </div>
 
@@ -212,7 +212,7 @@ const ForexPedia = () => {
   </p>
 
   <div className="logos-row">
-    <img src="/public/hundred.png" alt="Logo 1" />
+    <img src="/hundred.png" alt="Logo 1" />
   </div>
 
   <div className="join-now-container">
@@ -230,7 +230,7 @@ const ForexPedia = () => {
       <section className="ads-section">
         <div className="ads-left">
           <div className="ads-image-wrapper">
-            <img src="/public/rohan2.png" alt="Workshop Instructor" />
+            <img src="/rohan2.png" alt="Workshop Instructor" />
           </div>
         </div>
 
@@ -265,7 +265,7 @@ const ForexPedia = () => {
         </p>
 
         <div className="ads-logo">
-          <img src="/public/hundred.png" alt="Verified Logo" />
+          <img src="/hundred.png" alt="Verified Logo" />
         </div>
 
         <div className="ads-join-container">
@@ -284,7 +284,7 @@ const ForexPedia = () => {
         {/* 📸 LEFT IMAGE */}
         <div className="resonate-left">
           <div className="resonate-image-wrapper">
-            <img src="/public/rohan3.png" alt="Workshop Instructor" />
+            <img src="/rohan3.png" alt="Workshop Instructor" />
           </div>
         </div>
 
@@ -321,7 +321,7 @@ const ForexPedia = () => {
         </p>
 
         <div className="resonate-logo">
-          <img src="/public/hundred.png" alt="Verified Logo" />
+          <img src="/hundred.png" alt="Verified Logo" />
         </div>
 
         <div className="resonate-join-container">
@@ -340,7 +340,7 @@ const ForexPedia = () => {
       <h1 className="main-title">More Success and Less Stress!</h1>
 
       <div className="profile-section">
-        <img src="/public/rohan4.png" alt="Rohan sitting on couch" className="profile-img" />
+        <img src="/rohan4.png" alt="Rohan sitting on couch" className="profile-img" />
         <div className="profile-text">
           <h3>MEET ROHAN</h3>
           <p><strong>Founder of Impact XL (Advertising Agency)</strong></p>
@@ -397,7 +397,7 @@ const ForexPedia = () => {
         {/* LEFT SIDE - Image and Badge */}
         <div className="recap-left">
           <div className="recap-image-wrapper">
-            <img src="/public/rohan5.png" alt="Rohan Sapra" className="recap-image" />
+            <img src="/rohan5.png" alt="Rohan Sapra" className="recap-image" />
             <div className="badge">
               <h3>Rohan Sapra</h3>
               <p>
@@ -431,7 +431,7 @@ const ForexPedia = () => {
 
       {/* Icons and Join CTA */}
       <div className="badge-row">
-        <img src="/public/hundred.png" alt="badge1" />
+        <img src="/hundred.png" alt="badge1" />
       </div>
 
       <div className="cta-section">
